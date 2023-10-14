@@ -11,6 +11,7 @@
 <div>
 In pursuit of my dream of working in technology, I made the bold decision to change careers from medicine to IT.
 </div>
+<div>
 As a Full Stack developer, I have knowledge of:
 - Java Script
 - NodeJs
@@ -29,7 +30,10 @@ As a Full Stack developer, I have knowledge of:
 - AWS
 - Docker
 and others, I am always looking for new knowledge that can add to my career.
-
+</div>
+<div>
 My experience as a doctor has brought valuable skills such as: communication, leading and being led, logical thinking, organisation, critical analysis and complex problem solving.
-
+</div>
+<div>
 I am known for being extremely focussed and always looking to improve my skills.
+</div>
