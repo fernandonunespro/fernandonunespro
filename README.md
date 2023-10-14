@@ -8,27 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonunespro&layout=compact)
 
-<strong>In pursuit of my dream of working in technology, I made the bold decision to change careers from medicine to IT.
-
-As a Full Stack developer, I have knowledge of:
-- Java Script
-- NodeJs
-- TypeScript
-- React
-- SQL / MySQL
-- Python
-- Django
-- HTML
-- CSS
-- Git
-- GitHub
-- WordPress
-- Elementor
-- Bootstrap
-- AWS
-- Docker
-and others, I am always looking for new knowledge that can add to my career.
-
-My experience as a doctor has brought valuable skills such as: communication, leading and being led, logical thinking, organisation, critical analysis and complex problem solving.
-
-I am known for being extremely focussed and always looking to improve my skills.
+<i>In pursuit of my dream of working in technology, I made the bold decision to change careers from medicine to IT.
