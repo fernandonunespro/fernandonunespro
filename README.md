@@ -8,4 +8,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandonunespro&layout=compact)
 
-<i>In pursuit of my dream of working in technology, I made the bold decision to change careers from medicine to IT.
+<i>In pursuit of my dream of working in technology, I made the bold decision to change careers from medicine to IT.</i>
